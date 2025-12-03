@@ -1,0 +1,2 @@
+# Optimization_Practice_KryuchkovAV_DSPR178
+Стохастический градиентный и координатный спуски
